@@ -48,11 +48,9 @@ This repository treats telomere attrition as a core mechanism with real explanat
 
 The primary intervention question for telomere attrition may not be restoration but rate reduction.
 
-If the core risk of direct telomerase activation is oncogenic, then slowing attrition through upstream damage reduction and systemic maintenance may be the more viable near-term track.
+If direct telomerase activation carries meaningful oncogenic risk, then slowing attrition through upstream damage reduction and systemic maintenance may be the more viable near-term track.
 
-The analogy that holds: telomere loss is water evaporating from a bucket. The instinct is to refill it. But refilling carries risk. The better prior question is why the water is leaving, and whether the rate of loss can be slowed before restoration is ever attempted.
-
-Slowing the leak does not trigger the cancer entanglement. Refilling does.
+The better prior question is not only how to restore telomere reserve, but why telomere loss is accelerating and whether that rate of loss can be reduced before restoration is ever attempted.
 
 This shifts the intervention priority toward preservation strategies rather than direct telomerase activation.
 
