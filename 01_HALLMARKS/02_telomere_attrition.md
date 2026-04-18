@@ -14,7 +14,7 @@ Telomere attrition matters because chromosome-end protection is not optional.
 
 A cell can tolerate many forms of stress for a while. But once telomeres become critically short or uncapped, the consequences can be structural:
 
-- replication limits become more binding
+- replication limits become more constraining
 - stem and progenitor cell function declines
 - senescence increases
 - tissue renewal weakens
