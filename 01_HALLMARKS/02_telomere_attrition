@@ -23,7 +23,7 @@ A cell can tolerate many forms of stress for a while. But once telomeres become 
 
 Telomere attrition is one of the clearest places where aging and cancer biology sit directly against each other.
 
-Short telomeres can drive senescence and tissue decline.  
+Short telomeres can drive senescence and tissue decline.
 But unchecked telomerase activity can support malignant survival.
 
 That tension makes this hallmark especially important and especially difficult.
@@ -43,6 +43,18 @@ Working interpretation:
 - intervention-heavy in theory, high-caution in practice
 
 This repository treats telomere attrition as a core mechanism with real explanatory power, but not as a simple one-variable answer to aging.
+
+### Working Principle
+
+The primary intervention question for telomere attrition may not be restoration but rate reduction.
+
+If the core risk of direct telomerase activation is oncogenic, then slowing attrition through upstream damage reduction and systemic maintenance may be the more viable near-term track.
+
+The analogy that holds: telomere loss is water evaporating from a bucket. The instinct is to refill it. But refilling carries risk. The better prior question is why the water is leaving, and whether the rate of loss can be slowed before restoration is ever attempted.
+
+Slowing the leak does not trigger the cancer entanglement. Refilling does.
+
+This shifts the intervention priority toward preservation strategies rather than direct telomerase activation.
 
 ## Key Mechanisms
 
@@ -88,22 +100,22 @@ Telomere attrition is tightly connected to multiple hallmarks.
 
 ### Connected hallmarks include:
 
-**Genomic instability**  
+**Genomic instability**
 Telomere dysfunction exposes chromosome ends to breakage, fusion, rearrangement, and broader genome instability.
 
-**Epigenetic alterations**  
+**Epigenetic alterations**
 Telomere state and chromatin state influence each other. Damage signaling and chromatin remodeling around telomeres may interact with wider epigenetic drift.
 
-**Cellular senescence**  
+**Cellular senescence**
 Critically short or damaged telomeres are one of the classic triggers of senescence.
 
-**Stem cell exhaustion**  
+**Stem cell exhaustion**
 Declining telomere reserve can reduce stem cell function and tissue renewal.
 
-**Chronic inflammation**  
+**Chronic inflammation**
 Senescent cells and DNA damage responses linked to telomere dysfunction can increase inflammatory burden.
 
-**Altered intercellular communication**  
+**Altered intercellular communication**
 Telomere-driven senescence and stress signaling affect surrounding tissue behavior.
 
 ## Biomarker and Measurement Options
@@ -155,7 +167,7 @@ The core problem is that telomerase activation and cancer biology are tightly en
 - improved stem cell protection
 - interventions that reduce chronic inflammatory signaling
 
-These do not “solve” telomere attrition directly, but they may change the rate at which telomere dysfunction becomes consequential.
+These do not solve telomere attrition directly, but they may change the rate at which telomere dysfunction becomes consequential.
 
 ### 4. Context-dependent rejuvenation strategies
 Partial epigenetic reprogramming may interact with telomere biology indirectly through broader restoration of cellular state. This remains a research question, not a settled intervention path.
@@ -172,7 +184,7 @@ Important cautions:
 - short telomeres and excessive telomere maintenance can both create risk
 - intervention claims in this space often outrun the evidence
 
-This is not a hallmark where “lengthen telomeres” should be treated as a complete strategy.
+This is not a hallmark where "lengthen telomeres" should be treated as a complete strategy.
 
 ## Current Assessment
 
@@ -200,5 +212,5 @@ Foundational hallmark. High relevance. High caution.
 
 Telomere attrition belongs near the center of the aging framework, but simplistic intervention language should be rejected.
 
-Authored and maintained by Alyssa Solen | Solen Systems  
+Authored and maintained by Alyssa Solen | Solen Systems
 CC BY 4.0 | Reuse with attribution
