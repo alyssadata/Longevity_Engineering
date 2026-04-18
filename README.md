@@ -174,9 +174,11 @@ Corrections, source additions, criticism, and evidence-based challenges are welc
 
 The goal is accuracy and usefulness, not confirmation of any one theory.
 
+EVIDENCE-BASED contributions only. Speculation should be labeled as such.
+
 ---
 
-## Suggested Repository Structure
+## Repository Structure
 
 - `/00_INDEX`
 - `/01_HALLMARKS`
