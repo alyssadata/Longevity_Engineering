@@ -1,6 +1,6 @@
-# Longevity Research | Aging Mechanisms and Reversal Hypotheses
+# Longevity Engineering | Aging Mechanisms and Reversal Hypotheses
 
-An open research framework exploring the biology of aging and the candidate interventions that may slow, pause, or partially reverse aspects of biological aging.
+An open research framework exploring the biology of aging and the candidate interventions that may slow, interrupt, or reverse biological aging processes.
 
 Authored and maintained by Alyssa Solen | Solen Systems  
 License: CC BY 4.0
@@ -11,7 +11,7 @@ License: CC BY 4.0
 
 Biological aging is not a single mechanism. It is a compounding cascade of interacting failures across genomic, epigenetic, cellular, metabolic, immune, and systemic levels.
 
-Current medicine is strongest at treating downstream disease. This research framework is focused on upstream aging mechanisms and the question of what may credibly slow, interrupt, or partially reverse biological aging processes.
+Current medicine is strongest at treating downstream disease. This research framework is focused on upstream aging mechanisms and the question of what may credibly slow, interrupt, or reverse biological aging processes.
 
 The recognized hallmarks of aging include:
 
@@ -37,7 +37,7 @@ These do not act in isolation. They reinforce each other, which is one reason ag
 1. What drives aging most strongly: damage accumulation, epigenetic information loss, programmed decline, or some interacting combination?
 2. Which candidate interventions show credible evidence of acting on specific hallmarks, and at what level of human evidence?
 3. Is a unified intervention framework possible, or does each hallmark require targeted approaches?
-4. What would a minimum viable longevity framework look like for a high-functioning adult prioritizing cognition, physical capacity, and long healthspan?
+4. What would a minimum viable longevity framework look like for an adult prioritizing cognition, physical capacity, and long healthspan?
 
 This repository does not claim to have final answers. It documents the research process, candidate hypotheses, source review, and evolving synthesis as the science develops.
 
