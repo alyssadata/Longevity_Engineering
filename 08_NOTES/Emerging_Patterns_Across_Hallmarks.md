@@ -76,6 +76,30 @@ The biomarker section should open with this as a structural constraint, not
 bury it as a caveat.
 
 ---
+## Pattern 5 | The Environment Ages As Much As the Cells Inside It
+
+Confirmed across: stem cell exhaustion, altered intercellular communication,
+chronic inflammation, dysbiosis.
+
+Intervention logic that targets only cell-intrinsic function may fail if the
+surrounding environment is not addressed.
+
+Senescent niche cells distort stem-cell behavior. Inflammatory tissue
+environments sustain chronic burden even after the original trigger resolves.
+Barrier dysfunction allows microbial signals to reshape host physiology.
+Extracellular matrix changes alter how cells interpret their surroundings.
+
+The organism is not a collection of cells aging independently.
+It is a system of environments aging together.
+
+This pattern suggests that tissue-level and systemic context may need to be
+treated as intervention targets in their own right, not only as secondary
+effects of cellular repair.
+
+Status: Confirmed across four hallmarks. Promote to synthesis file when
+cross-hallmark analysis begins.
+
+---
 
 ## Status
 
