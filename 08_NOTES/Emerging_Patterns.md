@@ -5,6 +5,10 @@ Status: Working observation. Not a settled conclusion.
 
 ---
 
+## Patterns from Hallmark Review
+
+---
+
 ## Pattern 1 | The Sensing Problem May Be More Important Than the Damage Problem
 
 Across multiple hallmarks, decline in sensing, regulation, and adaptive
@@ -96,6 +100,10 @@ effects of cellular repair.
 
 Status: Supported across four hallmarks. Promote to synthesis file when
 cross-hallmark analysis begins.
+
+---
+
+## Patterns from Biomarker Review
 
 ---
 
