@@ -1,4 +1,4 @@
-# 08_NOTES | Emerging Patterns Across Hallmarks
+# 08_NOTES | Emerging Patterns
 
 Date: April 2026
 Status: Working observation. Not a settled conclusion.
