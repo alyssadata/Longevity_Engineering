@@ -1,14 +1,14 @@
 # 08_NOTES | Emerging Patterns Across Hallmarks
 
-Date: April 2026  
+Date: April 2026
 Status: Working observation. Not a settled conclusion.
 
 ---
 
 ## Pattern 1 | The Sensing Problem May Be More Important Than the Damage Problem
 
-Across almost every hallmark, what degrades first is not the structure itself
-but the cell's ability to detect its own state and respond correctly.
+Across multiple hallmarks, decline in sensing, regulation, and adaptive
+response may be at least as important as structural damage itself.
 
 - Nutrient sensing deregulates
 - Autophagic flux fails not at initiation but at completion
@@ -37,10 +37,7 @@ epigenetic reprogramming, and proteostasis.
 The systems that maintain longevity appear to be the same systems that
 suppress cancer. They may be in fundamental tension.
 
-Aging may partly be the price of cancer suppression.
-
-This is not widely stated this directly, but the pattern across the hallmarks
-supports it.
+Aging may partly reflect tradeoffs imposed by cancer suppression.
 
 If correct, it means the ceiling on longevity intervention may be partly set
 by the requirement to avoid uncontrolled proliferation. Any serious reversal
@@ -55,9 +52,9 @@ Every other candidate intervention targets one hallmark at a time.
 Epigenetic reprogramming potentially resets the reading layer that governs
 all of them.
 
-This is why it keeps appearing across every hallmark file. It is not one
-intervention among six. It may be the only candidate that operates at the
-level above the hallmarks rather than within them.
+This is why it keeps appearing across every hallmark file. It may be the only
+candidate in this repository that operates at the level above the individual
+hallmarks rather than mainly within one of them.
 
 That makes it the highest-upside and highest-caution track in the repository
 simultaneously.
