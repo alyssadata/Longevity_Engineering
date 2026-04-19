@@ -99,13 +99,54 @@ cross-hallmark analysis begins.
 
 ---
 
+## Pattern 6 | Function Takes Precedence When Biomarkers Conflict With It
+
+Emerged from: completing the full biomarker section.
+
+Across eight biomarker files, every molecular class carries the same core
+limitation: measurement quality is not yet strong enough to support confident
+individual-level decisions.
+
+That creates a governing question for protocol design:
+
+When a molecular biomarker and a functional or physiological measure disagree,
+which signal takes precedence?
+
+Working answer for this repository:
+
+Functional and physiological measures should take precedence.
+
+Aging is not a molecular abstraction. It is a process of changing capacity,
+declining reserve, and impaired recovery in a real organism.
+
+A molecular clock that says one thing while grip strength, gait speed,
+cardiorespiratory fitness, and functional reserve say another is a clock with
+an interpretation problem. It is not a body with a function problem.
+
+This does not make molecular biomarkers unimportant.
+It means they should be anchored to functional reality, not treated as
+superior to it.
+
+Implication for 05_PROTOCOL_DESIGN:
+
+Protocol design should not proceed on molecular biomarker confidence alone.
+Any protocol that improves a clock without improving function, resilience,
+or capacity should be treated with skepticism rather than enthusiasm.
+
+Status: Working position. Should be tested against intervention evidence
+as 03_INTERVENTIONS develops.
+
+---
+
 ## Status
 
-These working observations were generated across all 12 hallmarks.
+These working observations were generated across all 12 hallmarks and the
+full biomarker section.
 
-Patterns 1 through 4 were identified at the midpoint and held through the
-remaining hallmarks. Pattern 5 emerged in the second half and was supported
-across four hallmarks before being added.
+Patterns 1 through 4 were identified at the hallmark midpoint and held
+through completion. Pattern 5 emerged in the second half of the hallmarks
+and was supported across four files. Pattern 6 emerged from completing the
+biomarker section.
 
 Next step: promote the strongest patterns into a formal synthesis document
 when cross-hallmark analysis begins.
