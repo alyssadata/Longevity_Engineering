@@ -31,8 +31,8 @@ ability to recognize and respond to damage.
 The cancer risk appears repeatedly across telomeres, genomic instability,
 epigenetic reprogramming, and proteostasis.
 
-The systems that maintain longevity appear to be the same systems that
-suppress cancer. They may be in fundamental tension.
+Many of the systems that support longevity also suppress cancer.
+They may be in fundamental tension.
 
 Aging may partly reflect tradeoffs imposed by cancer suppression.
 
@@ -76,7 +76,7 @@ bury it as a caveat.
 
 ## Pattern 5 | The Environment Ages As Much As the Cells Inside It
 
-Confirmed across: stem cell exhaustion, altered intercellular communication,
+Supported across: stem cell exhaustion, altered intercellular communication,
 chronic inflammation, dysbiosis.
 
 Intervention logic that targets only cell-intrinsic function may fail if the
@@ -94,7 +94,7 @@ This pattern suggests that tissue-level and systemic context may need to be
 treated as intervention targets in their own right, not only as secondary
 effects of cellular repair.
 
-Status: Confirmed across four hallmarks. Promote to synthesis file when
+Status: Supported across four hallmarks. Promote to synthesis file when
 cross-hallmark analysis begins.
 
 ---
@@ -104,7 +104,7 @@ cross-hallmark analysis begins.
 These working observations were generated across all 12 hallmarks.
 
 Patterns 1 through 4 were identified at the midpoint and held through the
-remaining hallmarks. Pattern 5 emerged in the second half and was confirmed
+remaining hallmarks. Pattern 5 emerged in the second half and was supported
 across four hallmarks before being added.
 
 Next step: promote the strongest patterns into a formal synthesis document
