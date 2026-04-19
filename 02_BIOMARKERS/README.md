@@ -119,7 +119,7 @@ For each biomarker class, the goal is to document:
 - what its major interpretation limits are
 - what human validation currently exists
 
-## Proposed File Structure
+## File Structure
 
 - `01_epigenetic_clocks.md`
 - `02_telomere_measures.md`
