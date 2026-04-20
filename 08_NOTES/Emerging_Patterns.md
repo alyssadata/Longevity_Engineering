@@ -174,18 +174,76 @@ opening position of 05_PROTOCOL_DESIGN.
 
 ---
 
+## Patterns from Protocol Design Review
+
+## Pattern 8 | Protocol Design Resolved Four Things
+
+Emerged from: completing the full protocol design section.
+
+The protocol section did not add ambition to the repository.
+It added structure.
+
+Four things are now resolved that were not resolved before.
+
+---
+
+**1. The foundation is named and bounded.**
+
+Exercise, high-quality dietary patterning, and sleep and recovery treatment
+logic are the current protocol base. Not because they are simple. Because they
+already improve the things aging actually costs. That is the strongest
+available standard.
+
+**2. The escalation logic is explicit.**
+
+Foundation first. Support only when a real bottleneck exists. Exploratory
+interventions remain outside the main sequence unless the evidence changes.
+That order is not a preference. It is a constraint.
+
+**3. The failure modes are named.**
+
+A protocol can fail through biomarker theater, foundation bypass, exploratory
+leakage, complexity prestige, burden creep, and function decoupling. Naming
+them makes them harder to normalize.
+
+**4. The governing rule is restated and applied.**
+
+When biomarkers conflict with function, function decides. That rule now
+applies not only to biomarker interpretation, but to escalation, combination,
+de-escalation, population fit, and risk boundary decisions.
+
+---
+
+What the protocol section did not do:
+
+It did not resolve the evidence gaps in the intervention section.
+It did not make exploratory interventions protocol-ready.
+It did not eliminate biomarker uncertainty.
+
+Those remain open.
+
+The protocol section established how to work honestly within those limits.
+That is what it was for.
+
+Status: Resolved. Should inform 04_RISKS_AND_FAILURE_MODES and
+06_OPEN_QUESTIONS as those sections develop.
+
+---
+
 ## Status
 
 These working observations were generated across all 12 hallmarks, the full
-biomarker section, and the full intervention section.
+biomarker section, the full intervention section, and the full protocol design
+section.
 
 Patterns 1 through 4 were identified at the hallmark midpoint and held
 through completion. Pattern 5 emerged in the second half of the hallmarks
 and was supported across four files. Pattern 6 emerged from completing the
 biomarker section. Pattern 7 emerged from completing the intervention section.
+Pattern 8 emerged from completing the protocol design section.
 
 Next step: promote the strongest patterns into a formal synthesis document
-when cross-hallmark analysis begins.
+when cross-section analysis begins.
 
 ---
 
