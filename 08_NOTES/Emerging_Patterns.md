@@ -1,13 +1,11 @@
 # 08_NOTES | Emerging Patterns
 
 Date: April 2026
-Status: Working observation. Not a settled conclusion.
+Status: Working observations. Not settled conclusions.
 
 ---
 
 ## Patterns from Hallmark Review
-
----
 
 ## Pattern 1 | The Sensing Problem May Be More Important Than the Damage Problem
 
@@ -105,8 +103,6 @@ cross-hallmark analysis begins.
 
 ## Patterns from Biomarker Review
 
----
-
 ## Pattern 6 | Function Takes Precedence When Biomarkers Conflict With It
 
 Emerged from: completing the full biomarker section.
@@ -146,15 +142,47 @@ as 03_INTERVENTIONS develops.
 
 ---
 
+## Patterns from Intervention Review
+
+## Pattern 7 | The Intervention Hierarchy Is Already Visible
+
+Emerged from: completing the full intervention section.
+
+After reviewing 12 intervention files, a clear hierarchy has emerged.
+
+The interventions with the strongest human functional evidence are not the
+most molecularly ambitious ones.
+
+They are exercise, high-quality dietary patterning, and sleep treatment.
+
+These three already meet the repository's core standard: functional benefit
+in real humans, not only biomarker movement in controlled settings.
+
+Everything else in the intervention section sits at varying distances from
+that standard. Some are close. Most are not there yet.
+
+This matters for protocol design because it means the foundation of any
+credible longevity protocol is not pharmacologic or technological.
+
+It is behavioral and functional.
+
+Molecular and pharmacologic interventions may eventually add to that
+foundation. They have not yet replaced it.
+
+Status: Confirmed across the intervention section. Should inform the
+opening position of 05_PROTOCOL_DESIGN.
+
+---
+
 ## Status
 
-These working observations were generated across all 12 hallmarks and the
-full biomarker section.
+These working observations were generated across all 12 hallmarks, the full
+biomarker section, and the full intervention section.
 
 Patterns 1 through 4 were identified at the hallmark midpoint and held
 through completion. Pattern 5 emerged in the second half of the hallmarks
 and was supported across four files. Pattern 6 emerged from completing the
-biomarker section.
+biomarker section. Pattern 7 emerged from completing the intervention section.
 
 Next step: promote the strongest patterns into a formal synthesis document
 when cross-hallmark analysis begins.
