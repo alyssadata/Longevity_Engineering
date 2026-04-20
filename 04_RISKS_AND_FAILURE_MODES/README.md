@@ -136,7 +136,7 @@ A more elaborate intervention or protocol is not automatically a better one.
 An intervention can be plausible and still be wrong for the body it is being
 applied to.
 
-## Proposed File Structure
+## File Structure
 
 - `01_biological_risks.md`
 - `02_measurement_and_interpretation_failures.md`
