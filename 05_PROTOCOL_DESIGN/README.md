@@ -249,7 +249,7 @@ This section will likely document:
 - how to handle disagreement between biomarker and function
 - sequencing logic for multi-part protocols
 
-## Proposed File Structure
+## File Structure
 
 - `01_foundation_layer.md`
 - `02_support_layer.md`
