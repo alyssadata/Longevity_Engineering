@@ -92,7 +92,7 @@ The current source-anchored floor for most adults is:
   per week
 
 For older adults, or adults with fall risk or lower reserve, balance-oriented
-multicomponent activity should also be included. :contentReference[oaicite:4]{index=4}
+multicomponent activity should also be included. 
 
 ### Working repository range
 
@@ -106,7 +106,7 @@ A practical foundational exercise range for the repo is:
   treating workouts as compensation for otherwise static living
 
 This is not meant to describe elite training.
-It is meant to define the minimum range where the base becomes real. :contentReference[oaicite:5]{index=5}
+It is meant to define the minimum range where the base becomes real. 
 
 ### What “in range” looks like for exercise
 
@@ -143,7 +143,7 @@ system functional.
 
 The current official dietary floor is not one branded diet.
 It is a healthy dietary pattern built around nutrient-dense foods, food-group
-coverage, and quantitative limits on added sugar, saturated fat, and sodium. :contentReference[oaicite:6]{index=6}
+coverage, and quantitative limits on added sugar, saturated fat, and sodium. 
 
 The most important numerical anchors currently available from the U.S.
 guidelines are:
@@ -153,7 +153,7 @@ guidelines are:
 - **Sodium:** less than 2,300 mg per day
 
 The pattern should also be built from nutrient-dense foods and judged across
-time, not by isolated meals. :contentReference[oaicite:7]{index=7}
+time, not by isolated meals. 
 
 ### Working repository range
 
@@ -177,7 +177,7 @@ In practice, that means the foundation should usually look more like:
 
 This is closer to a Mediterranean-, DASH-, or AHEI-shaped pattern than to a
 single rigid diet identity, but the repo does not need to lock one brand name
-to define the base yet. The stronger point is pattern quality. :contentReference[oaicite:8]{index=8}
+to define the base yet. The stronger point is pattern quality. 
 
 ### What “in range” looks like for diet
 
@@ -219,7 +219,7 @@ The most usable starting range for adults is:
 - **Older adults 65+:** often 7 to 8 hours as the practical target range
 
 Recent evidence in older adults also supports treating sleep **regularity** and
-night-to-night stability as meaningful, not optional. :contentReference[oaicite:9]{index=9}
+night-to-night stability as meaningful, not optional. 
 
 ### Working repository range
 
@@ -237,7 +237,7 @@ as:
 A practical working target for schedule consistency in the repo is to keep
 bedtime and wake time from drifting wildly across the week. This is a repo
 inference based on the importance of regularity and variability rather than a
-formal universal cutpoint. :contentReference[oaicite:10]{index=10}
+formal universal cutpoint. 
 
 ### What “in range” looks like for sleep and recovery
 
