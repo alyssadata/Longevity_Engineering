@@ -11,7 +11,7 @@ The repository has already established that the present base is:
 - high-quality dietary patterning
 - sleep and recovery treatment logic
 
-That part is already settled as the current protocol foundation. :contentReference[oaicite:2]{index=2}
+That part is already settled as the current protocol foundation. 
 
 What is not yet fully settled is what it means for a real person to be
 sufficiently in range inside those domains.
@@ -222,7 +222,7 @@ That is what counts here.
 The repository does not treat sleep as “more hours and hope.”
 
 It treats sleep and recovery as a real foundation domain because function
-cannot be sustained without restoration. :contentReference[oaicite:3]{index=3}
+cannot be sustained without restoration. 
 
 That means being in range here is not only about time in bed.
 
@@ -402,12 +402,12 @@ because a weak or symbolic foundation should not be escalated
 **08_NOTES | Emerging Patterns**  
 especially Pattern 7 and Pattern 8, because those patterns already established
 the intervention hierarchy and the protocol structure the base now needs to
-support :contentReference[oaicite:4]{index=4}
+support 
 
 **README.md**  
 because the original repo already asked what a minimum viable longevity
 framework might look like, and this file begins making that question more
-operational :contentReference[oaicite:5]{index=5}
+operational
 
 ## Current Assessment
 
