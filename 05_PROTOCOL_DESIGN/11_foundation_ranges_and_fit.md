@@ -50,20 +50,20 @@ minutes per week of moderate-intensity aerobic activity, or 75 to 150 minutes
 per week of vigorous-intensity activity, or an equivalent combination. Adults
 should also do muscle-strengthening work involving major muscle groups on 2 or
 more days per week. Older adults should also include multicomponent physical
-activity emphasizing balance and strength. :contentReference[oaicite:1]{index=1}
+activity emphasizing balance and strength. 
 
 Current U.S. dietary guidance emphasizes a healthy dietary pattern across life,
 meeting food-group needs with nutrient-dense foods, and limiting added sugars
 to less than 10% of calories, saturated fat to less than 10% of calories, and
 sodium to less than 2,300 mg per day. It also explicitly emphasizes that the
-pattern of eating over time matters more than isolated “healthy choices.” :contentReference[oaicite:2]{index=2}
+pattern of eating over time matters more than isolated “healthy choices.” 
 
 Common adult sleep-duration guidance targets 7 to 9 hours for most adults, with
 7 to 8 hours often used as the recommendation range for older adults. Recent
 sleep-health research in older adults also suggests that greater night-to-night
 sleep-efficiency variability is associated with worse cognitive performance,
 which supports treating regularity as part of the base rather than only total
-hours. :contentReference[oaicite:3]{index=3}
+hours. 
 
 ### WORKING REPOSITORY INFERENCE
 
