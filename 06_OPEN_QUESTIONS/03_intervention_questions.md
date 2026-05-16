@@ -50,7 +50,7 @@ This file does **not** reopen the following current repository positions:
 - function takes precedence when biomarkers conflict with it
 - protocol design should not proceed on molecular confidence alone
 
-Those are current repository boundaries. :contentReference[oaicite:2]{index=2}
+Those are current repository boundaries. 
 
 The open questions here begin after those rules.
 
@@ -312,7 +312,7 @@ current constraints
 
 **08_NOTES | Emerging Patterns**  
 especially Pattern 7 and Pattern 8, because those patterns already established
-the visible intervention hierarchy and the protocol structure that followed it :contentReference[oaicite:3]{index=3}
+the visible intervention hierarchy and the protocol structure that followed it 
 
 **05_PROTOCOL_DESIGN/03_exploratory_layer**  
 because many of these questions are really questions about what would justify
