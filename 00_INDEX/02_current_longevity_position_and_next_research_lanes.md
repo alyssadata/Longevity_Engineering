@@ -14,30 +14,35 @@ enough that the next research direction does not get lost.
 The repository now has enough internal structure to say something more precise
 than the original README.
 
-The README still states the problem well:
+The README still states the problem correctly:
 
 - aging is a compounding cascade of interacting failures
-- the repository is trying to understand upstream mechanisms
-- the framework is distinguishing established structure, early human evidence,
+- the repository is focused on upstream mechanisms
+- the framework separates established structure, early human evidence, strong
   animal evidence, mechanistic speculation, and hype
 
 That still holds.
 
 But the repository now says more than that.
 
-It now has a visible intervention hierarchy, an explicit protocol foundation,
-and a clearer sense of what belongs in the current base versus what remains
-important but not yet promoted.
+It now has:
+
+- a visible intervention hierarchy
+- an explicit protocol foundation
+- a function-first arbitration rule
+- a clearer distinction between active research tracks and the current honest
+  base
 
 This page captures that position so the next step can be chosen deliberately
 rather than by drift.
 
 ## The Current Position of the Repository
 
-The repository is not currently saying that longevity is best understood as one
-drug, one mechanism, or one near-term reversal technology.
+The repository does not currently support the idea that longevity is best
+understood as one drug, one pathway, one biomarker, or one near-term reversal
+technology.
 
-It is saying something more disciplined.
+It supports something more disciplined.
 
 So far, the framework points toward longevity as a systems problem involving:
 
@@ -48,7 +53,7 @@ So far, the framework points toward longevity as a systems problem involving:
 - limited measurement quality
 - a stronger need for function-first interpretation than the field often uses
 
-That is already a meaningful position.
+This is already a meaningful position.
 
 It is not weak because it is bounded.
 
@@ -107,9 +112,11 @@ That is one of the main things the intervention section clarified.
 The framework now has a real split between:
 
 ### 1. Current foundation
+
 What already has the strongest human functional credibility.
 
 ### 2. Active but not yet promoted research tracks
+
 What remains biologically important but still limited by some combination of:
 
 - weak human functional evidence
@@ -227,6 +234,7 @@ pass.
 At the current stage, the cleanest ordering looks like this:
 
 ### First next research lane
+
 Senolytics
 
 Why first:
@@ -240,6 +248,7 @@ They are still not protocol-ready.
 But they look like one of the clearest next research lanes.
 
 ### Second next research lane
+
 mTOR-related interventions
 
 Why second:
@@ -250,6 +259,7 @@ requiring careful handling around population fit, outcome strength, and
 oversimplification.
 
 ### Third next research lane
+
 Support-oriented questions around NAD+ and microbiome-directed logic
 
 Why third:
@@ -260,7 +270,8 @@ questions than as immediate central longevity claims.
 That makes them worth researching, but with the right question framing.
 
 ### Later frontier lane
-Telomere, plasma/circulating-factor, and reprogramming
+
+Telomere, plasma or circulating-factor, and reprogramming
 
 Why later:
 
