@@ -198,5 +198,13 @@ Active. Evolving. No settled conclusions.
 
 ---
 
+## Current Repository Position
+For a synthesis of what the framework currently indicates about longevity after
+the Hallmarks, Biomarkers, Interventions, Risks, Protocol, and Open Questions
+sections were built, see:
+00_INDEX/01_repository_position_so_far.md
+
+---
+
 Authored and maintained by Alyssa Solen | Solen Systems  
 CC BY 4.0 | Reuse with attribution
