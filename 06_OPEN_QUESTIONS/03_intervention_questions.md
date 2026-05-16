@@ -15,7 +15,7 @@ It established that:
   risk, translation weakness, biomarker dependence, or lack of strong human
   functional evidence
 
-Those are current repository positions, not open questions here. :contentReference[oaicite:1]{index=1}
+Those are current repository positions, not open questions here. 
 
 This file is for the intervention questions that remain unresolved **inside**
 that structure.
